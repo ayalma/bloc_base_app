@@ -1,8 +1,8 @@
 name: bloc_base
-description: flutter bloc base 
-version: 0.0.1
-author:
-homepage:
+description: flutter bloc base
+version: 0.1.0
+author: ayalma (Ali Mohammadi) <alimohammadi7117@gmail.com>
+homepage: https://github.com/ayalma/bloc_base_app
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
