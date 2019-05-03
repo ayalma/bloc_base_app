@@ -1,4 +1,3 @@
-import 'package:bloc_base/src/base_bloc.dart';
 import 'package:flutter/widgets.dart';
 ///
 /// Generic BLoC provider

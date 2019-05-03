@@ -1,6 +1,4 @@
-import 'package:bloc_base/src/bloc_event.dart';
-import 'package:bloc_base/src/bloc_event_state.dart';
-import 'package:bloc_base/src/bloc_state.dart';
+
 import 'package:flutter/widgets.dart';
 
 typedef Widget AsyncStateBuilder<BS extends BlocState>(

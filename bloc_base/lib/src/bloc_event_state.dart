@@ -2,7 +2,6 @@ import 'dart:async';
 import 'package:bloc_base/src/base_bloc.dart';
 import 'package:bloc_base/src/bloc_event.dart';
 import 'package:bloc_base/src/bloc_state.dart';
-import 'package:flutter/widgets.dart';
 import 'package:meta/meta.dart';
 import "package:rxdart/rxdart.dart";
 

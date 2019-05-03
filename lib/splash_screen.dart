@@ -1,4 +1,4 @@
-import 'package:bloc_base/bloc_base.dart';
+import 'package:bloc_flutter/bloc_flutter.dart';
 import 'package:bloc_base_app/app_init_bloc.dart';
 import 'package:bloc_base_app/check_version_screen.dart';
 import 'package:flutter/material.dart';

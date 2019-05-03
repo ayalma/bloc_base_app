@@ -2,7 +2,7 @@ import 'package:bloc_base_app/app_init_bloc.dart';
 import 'package:bloc_base_app/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:bloc_base/bloc_base.dart';
-
+import 'package:bloc_flutter/bloc_flutter.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {

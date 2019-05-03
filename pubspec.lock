@@ -14,7 +14,14 @@ packages:
       path: bloc_base
       relative: true
     source: path
-    version: "0.0.1"
+    version: "0.1.0"
+  bloc_flutter:
+    dependency: "direct main"
+    description:
+      path: bloc_flutter
+      relative: true
+    source: path
+    version: "0.1.0"
   boolean_selector:
     dependency: transitive
     description:
